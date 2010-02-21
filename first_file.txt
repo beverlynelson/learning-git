@@ -1,3 +1,4 @@
 Hello, this is the first file. Edit this and add your name!
 
 * Nola 
+* Rebecca
